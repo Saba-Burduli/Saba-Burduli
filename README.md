@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Startup<br>👯 I’m looking to collaborate on 404 (not found)<br>🌱 I’m currently learning .net mysql<br><br>
+🔭 I’m currently working on my Startup<br>👯 I’m looking to collaborate on 404 (not found)<br>🌱 I’m currently learning ASP.NET<br><br>
 
 
 ## 🌐 Socials:
