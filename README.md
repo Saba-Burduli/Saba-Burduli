@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Startup<br>👯 I’m looking to collaborate on Microsoft<br>🌱 I’m currently learning ASP.NET<br><br>
+🔭 I’m currently working on my Startup<br>👯 I’m looking to collaborate on Microsoft<br>🌱 I’m currently learning ASP.NET Web API<br><br>
 
 
 ## 🌐 Socials:
