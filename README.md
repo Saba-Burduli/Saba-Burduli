@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Startup<br>👯 I’m looking to collaborate on Microsoft<br>🌱 I’m currently learning ASP.NET Web API<br><br>
+🔭 Hello my name is Saba Burduli and I am a Software Engineer with nearly two decades of experience, specializing in C#, ASP.NET Core, REST, GraphQL,Entity Framework Core, PostgreSQL, and SQL Server.
 
 
 ## 🌐 Socials:
