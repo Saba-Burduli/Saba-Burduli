@@ -9,8 +9,8 @@
 - 👨‍💻 All of my projects are available at [GITHUB](GITHUB)
 
 - 📫 How to reach me **sabagg790@gmail.com**
-
-<div style="text-align: center;">
+###
+<div aling="center">
   <a href="https://discord.gg/https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
   </a>
@@ -31,6 +31,7 @@
   </a>
 </div>
 
+###
 
 ###
 
