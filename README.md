@@ -107,7 +107,7 @@
 
 ![Saba-Burduli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saba-Burduli&theme=highcontrast&hide_border=true)
 
-![Saba-Burduli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-Burduli&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ComicBurduli&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -120,6 +120,8 @@
 <div align="left">
   <img height="250" src="https://media.assettype.com/analyticsinsight%2Fimport%2Fwp-content%2Fuploads%2F2022%2F02%2FDennis-Ritchie-Biography-of-a-Pioneer-Programmer-Who-Shaped-the-Computing-History.jpg?w=640&auto=format%2Ccompress&fit=max"  />
 </div>
+
+![Saba-Burduli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-Burduli&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ###
 
