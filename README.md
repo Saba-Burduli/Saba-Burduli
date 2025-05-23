@@ -103,6 +103,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+![Saba-Burduli's Stats](https://github-readme-stats.vercel.app/api?username=Saba-Burduli&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+
+![Saba-Burduli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saba-Burduli&theme=highcontrast&hide_border=true)
+
+![Saba-Burduli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-Burduli&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=ComicBurduli&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -122,13 +130,7 @@
 ###
 
 
-![Saba-Burduli's Stats](https://github-readme-stats.vercel.app/api?username=Saba-Burduli&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
-![Saba-Burduli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saba-Burduli&theme=highcontrast&hide_border=true)
-
-![Saba-Burduli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-Burduli&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=ComicBurduli&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
