@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **sabagg790@gmail.com**
 
-  https://api.githubtrends.io/user/svg/Saba-Burduli/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark
-
 
 ###
 
