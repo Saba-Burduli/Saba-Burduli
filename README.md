@@ -30,7 +30,9 @@
   <a href="https://www.youtube.com/@comic_solvency" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
   </a>
-</div>
+
+<center>
+
 
 ###
 
