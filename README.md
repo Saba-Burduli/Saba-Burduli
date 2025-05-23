@@ -109,13 +109,13 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="250" src="https://media.assettype.com/analyticsinsight%2Fimport%2Fwp-content%2Fuploads%2F2022%2F02%2FDennis-Ritchie-Biography-of-a-Pioneer-Programmer-Who-Shaped-the-Computing-History.jpg?w=640&auto=format%2Ccompress&fit=max"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="250" src="https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg  "  />
 </div>
 
