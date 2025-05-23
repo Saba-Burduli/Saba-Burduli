@@ -8,12 +8,12 @@
 ###
 
 <div align="center">
-  <img height="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o4b3ZjaDJwaTN4dXJ4a3Z2aTlvbXlzN2g5bWwxMXoxMjRuMTk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12g53gdURkojug/giphy.gif"  />
+  <img height="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o4b3ZjaDJwaTN4dXJ4a3Z2aTlvbXlzN2g5bWwxMXoxMjRuMTk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12g53gdURkojug/giphy.gif"/>
 </div>
 
 ###
 
-<h4>Hello my name is Saba Burduli and I am a Software Engineer with nearly two decades of experience, specializing in C#, ASP.NET Core, REST, GraphQL,Entity Framework Core, PostgreSQL, and SQL Server And worked in 3D graphic Programming using OpenGL , C++ , Manual BVH / Vulkan</h4>
+<h3>Hello my name is Saba Burduli and I am a Software Engineer with nearly two decades of experience, specializing in C#, ASP.NET Core, REST, GraphQL,Entity Framework Core, PostgreSQL, and SQL Server And worked in 3D graphic Programming using OpenGL , C++ , Manual BVH / Vulkan</h3>
 
 ###
 
