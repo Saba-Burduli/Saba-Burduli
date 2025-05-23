@@ -2,15 +2,17 @@
 
 ###
 
-<h3 align="center">Hello my name is Saba Burduli and I am a Software Engineer with nearly two decades of experience, specializing in C#, ASP.NET Core, REST, GraphQL,Entity Framework Core, PostgreSQL, and SQL Server And worked in 3D graphic Programming using OpenGL , C++ , Manual BVH / Vulkan</h3>
+<h3 align="left">About Me :</h3>
 
-- 🔭 I’m currently working on **GymMembership Project and Game Engine using OpenGL**
+###
 
-- 👨‍💻 All of my projects are available at [GITHUB](GITHUB)
+<div align="center">
+  <img height="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o4b3ZjaDJwaTN4dXJ4a3Z2aTlvbXlzN2g5bWwxMXoxMjRuMTk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12g53gdURkojug/giphy.gif"  />
+</div>
 
-- 📫 How to reach me **sabagg790@gmail.com**
+###
 
-
+<p align="left">Hello my name is Saba Burduli and I am a Software Engineer with nearly two decades of experience, specializing in C#, ASP.NET Core, REST, GraphQL,Entity Framework Core, PostgreSQL, and SQL Server And worked in 3D graphic Programming using OpenGL , C++ , Manual BVH / Vulkan</p>
 
 ###
 
@@ -27,20 +29,10 @@
   <a href="https://medium.com/@SabaBurduli" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://x.com/Comic_Solvency" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
-
-###
-
-###
-
-  🌐 Socials:<div aling="center">
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087311456923) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/burdulii_saba/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saba-burduli-335126273/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Comic_Solvency) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@comic_solvency) 
-  </div>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -114,14 +106,18 @@
 
 ###
 
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 <div align="center">
-  <img height="200" src="https://media.assettype.com/analyticsinsight%2Fimport%2Fwp-content%2Fuploads%2F2022%2F02%2FDennis-Ritchie-Biography-of-a-Pioneer-Programmer-Who-Shaped-the-Computing-History.jpg?w=640&auto=format%2Ccompress&fit=max"  />
+  <img height="250" src="https://media.assettype.com/analyticsinsight%2Fimport%2Fwp-content%2Fuploads%2F2022%2F02%2FDennis-Ritchie-Biography-of-a-Pioneer-Programmer-Who-Shaped-the-Computing-History.jpg?w=640&auto=format%2Ccompress&fit=max"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg  "  />
+  <img height="250" src="https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg  "  />
 </div>
 
 ###
