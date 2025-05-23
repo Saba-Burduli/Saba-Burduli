@@ -17,12 +17,6 @@
   <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o4b3ZjaDJwaTN4dXJ4a3Z2aTlvbXlzN2g5bWwxMXoxMjRuMTk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12g53gdURkojug/giphy.gif"  />
 </div>
 
-###
-
-<p align="left">Hello my name is Saba Burduli and I am a Software Engineer with nearly two decades of experience, specializing in C#, ASP.NET Core, REST, GraphQL,Entity Framework Core, PostgreSQL, and SQL Server And worked in 3D graphic Programming using OpenGL , C++ , Manual BVH / Vulkan</p>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/saba-burduli-335126273/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
