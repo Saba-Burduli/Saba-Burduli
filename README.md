@@ -12,9 +12,9 @@
 ###
 <center>
 
-  <a href="https://discord.gg/https://discord.com/channels/@me" target="_blank">
+  <center><a href="https://discord.gg/https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-  </a>
+  </a><center>
   <a href="https://www.facebook.com/profile.php?id=100087311456923" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
   </a>
