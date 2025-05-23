@@ -7,7 +7,7 @@
 
 ###
 
-<div align="center">
+<div align="center"style=" ;aling-text:center;">
   <img height="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o4b3ZjaDJwaTN4dXJ4a3Z2aTlvbXlzN2g5bWwxMXoxMjRuMTk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12g53gdURkojug/giphy.gif"  />
 </div>
 
