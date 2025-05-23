@@ -13,7 +13,7 @@
 
 ###
 
-<h4> align="left">Hello my name is Saba Burduli and I am a Software Engineer with nearly two decades of experience, specializing in C#, ASP.NET Core, REST, GraphQL,Entity Framework Core, PostgreSQL, and SQL Server And worked in 3D graphic Programming using OpenGL , C++ , Manual BVH / Vulkan</h4>
+<h4>Hello my name is Saba Burduli and I am a Software Engineer with nearly two decades of experience, specializing in C#, ASP.NET Core, REST, GraphQL,Entity Framework Core, PostgreSQL, and SQL Server And worked in 3D graphic Programming using OpenGL , C++ , Manual BVH / Vulkan</h4>
 
 ###
 
