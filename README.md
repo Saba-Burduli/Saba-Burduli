@@ -2,7 +2,18 @@
 
 ###
 
-<h3 align="left">About Me :</h3>
+
+<h1 align="center">Hi 👋, I'm Saba Burduli</h1>
+<h3 align="center">Hello my name is Saba Burduli and I am a Software Engineer with nearly two decades of experience, specializing in C#, ASP.NET Core, REST, GraphQL,Entity Framework Core, PostgreSQL, and SQL Server And worked in 3D graphic Programming using OpenGL , C++ , Manual BVH / Vulkan</h3>
+
+- 🔭 I’m currently working on **GymMembership Project and Game Engine using OpenGL**
+
+- 👨‍💻 All of my projects are available at [GITHUB](GITHUB)
+
+- 📫 How to reach me **sabagg790@gmail.com**
+
+  https://api.githubtrends.io/user/svg/Saba-Burduli/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark
+
 
 ###
 
@@ -166,17 +177,6 @@
 
 
 
-
-<h1 align="center">Hi 👋, I'm Saba Burduli</h1>
-<h3 align="center">Hello my name is Saba Burduli and I am a Software Engineer with nearly two decades of experience, specializing in C#, ASP.NET Core, REST, GraphQL,Entity Framework Core, PostgreSQL, and SQL Server And worked in 3D graphic Programming using OpenGL , C++ , Manual BVH / Vulkan</h3>
-
-- 🔭 I’m currently working on **GymMembership Project and Game Engine using OpenGL**
-
-- 👨‍💻 All of my projects are available at [GITHUB](GITHUB)
-
-- 📫 How to reach me **sabagg790@gmail.com**
-
-  https://api.githubtrends.io/user/svg/Saba-Burduli/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
