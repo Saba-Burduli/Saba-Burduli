@@ -135,7 +135,6 @@
   <img height="250" src="https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg https://live.staticflickr.com/3064/2713809984_0650db5eea_b.jpg  "  />
 </div>
 
-</div>
 
 ###
 
