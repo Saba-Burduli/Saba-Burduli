@@ -122,6 +122,12 @@
 
 
 <div align="left">
+  <img height="280" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o4b3ZjaDJwaTN4dXJ4a3Z2aTlvbXlzN2g5bWwxMXoxMjRuMTk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12g53gdURkojug/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdlMGllbjZ4ZHRpdjJnenlkOXBqamZtenVuNTcwaGY0bnczOXkwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)"/>
+</div>
+
+
+
+<div align="left">
   <img height="250" src="https://media.assettype.com/analyticsinsight%2Fimport%2Fwp-content%2Fuploads%2F2022%2F02%2FDennis-Ritchie-Biography-of-a-Pioneer-Programmer-Who-Shaped-the-Computing-History.jpg?w=640&auto=format%2Ccompress&fit=max"  />
 </div>
 <br>
