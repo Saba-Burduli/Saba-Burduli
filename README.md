@@ -112,14 +112,9 @@
 
 ---
 
-![Saba-Burduli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saba-Burduli&theme=highcontrast&hide_border=true)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ComicBurduli&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-##  💻 "Programming isn’t about what you know — it’s about what you can figure out along the way. 🔧"
 
 <div align="left">
   <img height="280" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdlMGllbjZ4ZHRpdjJnenlkOXBqamZtenVuNTcwaGY0bnczOXkwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif"/>
