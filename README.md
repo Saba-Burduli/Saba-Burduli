@@ -1,7 +1,5 @@
 
-# Hi, I'm Saba Burduli (საბა ბურდული)
-
-Software & AI Engineer from Tbilisi, Georgia, and co-founder of CRUD Academy. Website: **[sababurduli.dev](https://sababurduli.dev)**
+# Hi, I'm Saba
 
 I'm a software engineer and AI explorer building developer tools, open-source products, and experimental software across AI and backend engineering.
 
@@ -16,6 +14,6 @@ I'm a programming language enthusiast and language-agnostic builder. I love low-
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saba-burduli-335126273/)
-[![Website](https://img.shields.io/badge/sababurduli.dev-245EDB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sababurduli.dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_USER_ID)
 [![X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Comic_Solvency)
 </div>
