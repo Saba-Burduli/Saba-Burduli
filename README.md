@@ -1,5 +1,5 @@
 
-# Hi, I'm Saba Burduli (საბა ბურდული)
+# Hi, I'm Saba Burduli
 
 Software & AI Engineer from Tbilisi, Georgia, and co-founder of CRUD Academy. Website: **[sababurduli.dev](https://sababurduli.dev)**
 
